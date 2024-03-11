@@ -1,0 +1,12 @@
+//Print the table of 19//
+#include<iostream>
+using namespace std;
+int main()
+{
+    int i;
+    for(i=19;i<=190;i=i+19)
+    {
+        cout<<i<<endl;
+    }
+    return 0;
+}
