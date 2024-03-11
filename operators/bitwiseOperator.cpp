@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int num1=5;
+    int num1=7;
 
     cout<<(num1<<1)<<endl;
 
