@@ -12,7 +12,7 @@ int main
 
 {
     int i; 
-    char j;
+    int j;
     for(i=1;i<=4;i++)
     {
         for(j='A';j<='D';j++)
