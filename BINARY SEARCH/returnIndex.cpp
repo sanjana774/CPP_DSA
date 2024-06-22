@@ -31,4 +31,5 @@ int Search_insert(int size,int arr[],int target)
         cin>>arr[i];
         cin>>target;
         cout<<Search_insert(size,arr,target);
+        return 0;
     }
